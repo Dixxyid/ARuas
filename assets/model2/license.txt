@@ -1,0 +1,11 @@
+Model Information:
+* title:	Anthropomorphic mushroom character
+* source:	https://sketchfab.com/3d-models/anthropomorphic-mushroom-character-0aa650bfece14b519e25f6e27be5ce93
+* author:	Abdur Razzak Sawon (https://sketchfab.com/md.abdur.razzak.sawon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Anthropomorphic mushroom character" (https://sketchfab.com/3d-models/anthropomorphic-mushroom-character-0aa650bfece14b519e25f6e27be5ce93) by Abdur Razzak Sawon (https://sketchfab.com/md.abdur.razzak.sawon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
